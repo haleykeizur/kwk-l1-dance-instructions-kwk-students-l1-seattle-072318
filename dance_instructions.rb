@@ -1,2 +1,2 @@
 def Assume_the_proper_stance
-  puts P
+  puts Plant legs far apart, bend knees slightly and keep posture loose
