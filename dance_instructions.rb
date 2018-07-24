@@ -8,3 +8,4 @@ def base_footwork
 end
 def skip_step
   puts "Lower left foot to the ground"
+end
