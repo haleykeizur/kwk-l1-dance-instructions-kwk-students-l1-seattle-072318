@@ -1,2 +1,2 @@
-
-# Code your methods below
+def Assume_the_proper_stance
+  puts P
