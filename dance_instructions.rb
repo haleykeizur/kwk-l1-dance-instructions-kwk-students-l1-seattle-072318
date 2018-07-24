@@ -3,5 +3,5 @@ def starting_stance
 end
 def base_footwork
   puts "Lift right foot"
+  puts "Return right foot to the ground"
   puts ""
-
